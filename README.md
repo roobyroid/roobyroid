@@ -1,12 +1,9 @@
 <h1 align="center">Hello 👋</h1>
 <p align="center" >
-    ![image](https://www.codewars.com/users/roobyroid/badges/large)
-</p>
-<!-- <p align="center" >
     <a href="https://www.codewars.com/users/roobyroid">
       <img src="https://github.r2v.ch/codewars?user=roobyroid" />
     </a>
-</p> -->
+</p>
 <!--
 **roobyroid/roobyroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
